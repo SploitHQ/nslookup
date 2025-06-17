@@ -87,7 +87,7 @@ Want to quickly generate nslookup commands?
 
 ## 🔗 Useful Links
 
-- [nslookup man page](https://man7.org/linux/man-pages/man1/nslookup.1.html)
+- [nslookup man page](https://linux.die.net/man/1/nslookup)
 - [nslookup Generator on SploitHQ](https://sploithq.com/nslookup)
 
 ---
